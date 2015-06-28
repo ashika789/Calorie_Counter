@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-import java.io.*;
+import java.io.*; 
 
 public class MaleCalorieCalculator {
 	public static final int WEIGHT_INCREMENT = 5;
